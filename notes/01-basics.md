@@ -12,3 +12,17 @@ The `print()` function outputs text to the console.
 ### Example
 ```python
 print("Hello, world")
+
+
+# Lock This Rule In (Important)
+
+From now on:
+
+All Python learning lives in Root Folder
+C:\Users\micha\projects\python\python-foundations
+
+You never ask “where do I put this?” again.
+
+# How to Search This Project for Infor mation:
+Cntrl +SHift + F
+
